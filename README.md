@@ -25,15 +25,15 @@ Highlights:
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_cmVhZHktc2hpbmVyLTkxLmNsZXJrLmFjY291bnRzLmRldiQ
 CLERK_SECRET_KEY=sk_test_15yYklcVr1AALO4FALsI78krTNY8I59lVAaTVhiZCQ
 
-CONVEX_DEPLOYMENT=https://tough-crow-783.convex.cloud
-NEXT_PUBLIC_CONVEX_URL=
+CONVEX_DEPLOYMENT=
+NEXT_PUBLIC_CONVEX_URL=https://limitless-turtle-759.convex.cloud
 ```
 
 ### Add these env to Convex Dashboard
 
 ```js
-CLERK_WEBHOOK_SECRET=
-LEMON_SQUEEZY_WEBHOOK_SECRET=
+CLERK_WEBHOOK_SECRET = whsec_UdZkVxMxajegBlOd3C1caxbxkONJOPs0;
+LEMON_SQUEEZY_WEBHOOK_SECRET = lemon_squeezy_secret;
 ```
 
 ### Run the app
